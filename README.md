@@ -1,1 +1,3 @@
 # gitmaven
+
+###gitmerge conflicts
