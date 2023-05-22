@@ -1,3 +1,3 @@
 # gitmaven
 
-### gitmerging conflict view version2
+### gitmerging conflict view version3
